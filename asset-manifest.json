@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-spa/static/css/main.5c57ab63.chunk.css",
+    "main.js": "/react-spa/static/js/main.e05902bf.chunk.js",
+    "main.js.map": "/react-spa/static/js/main.e05902bf.chunk.js.map",
+    "runtime-main.js": "/react-spa/static/js/runtime-main.b07abd39.js",
+    "runtime-main.js.map": "/react-spa/static/js/runtime-main.b07abd39.js.map",
+    "static/js/2.9da9d3a1.chunk.js": "/react-spa/static/js/2.9da9d3a1.chunk.js",
+    "static/js/2.9da9d3a1.chunk.js.map": "/react-spa/static/js/2.9da9d3a1.chunk.js.map",
+    "static/js/3.fcdf3a1b.chunk.js": "/react-spa/static/js/3.fcdf3a1b.chunk.js",
+    "static/js/3.fcdf3a1b.chunk.js.map": "/react-spa/static/js/3.fcdf3a1b.chunk.js.map",
+    "index.html": "/react-spa/index.html",
+    "static/css/main.5c57ab63.chunk.css.map": "/react-spa/static/css/main.5c57ab63.chunk.css.map",
+    "static/js/2.9da9d3a1.chunk.js.LICENSE.txt": "/react-spa/static/js/2.9da9d3a1.chunk.js.LICENSE.txt",
+    "static/media/header1.e210d623.jpg": "/react-spa/static/media/header1.e210d623.jpg",
+    "static/media/header2.26d6661b.jpg": "/react-spa/static/media/header2.26d6661b.jpg",
+    "static/media/header3.1b8172a4.jpg": "/react-spa/static/media/header3.1b8172a4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b07abd39.js",
+    "static/js/2.9da9d3a1.chunk.js",
+    "static/css/main.5c57ab63.chunk.css",
+    "static/js/main.e05902bf.chunk.js"
+  ]
+}
